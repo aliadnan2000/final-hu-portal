@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^5.11.16",
+    "cors": "^2.8.5",
+    "proxycurl-js-linkedin-profile-scraper": "^1.0.2",
+    "react-circular-progressbar": "^2.1.0",
+    "react-comments-section": "^2.0.10"
+  }
+}
